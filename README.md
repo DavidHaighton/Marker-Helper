@@ -1,0 +1,2 @@
+# Marker-Helper
+Marking labs and midterms has to be the worst part about TAing. So, this is a tool to help. Given the path to a CSV like file who's format is &lt;points>,&lt;name> on each line, the app will make check boxes for what the student did correctly and incorrectly. After clicking the checkboxes for the marks the students earn, the app will automatically generate feedback for you to copy and paste into their feedback box.
